@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^3.4.1",
+    "cities.json": "^1.1.5",
+    "country-json": "^1.1.0",
     "react": "^16.12.0",
+    "react-autosuggest": "^9.4.3",
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0"
   },
